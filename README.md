@@ -23,25 +23,22 @@
 
 #MyNPC
 
-A SUPER NPC AI . It can fight with players and the other...!
-IT CAN MOVE/FIGHT !!
+We bring forward, A fantastic, Custom NPC Plugin with artificial intelligence! It can PvP with other in-game users and do much more, yup, that includes free movement as well!
 
 Command:
 - /new <npc name> <npc type 1/2>
 
 Features:
-- Can custom NAMETAG
-- Can custon MaxHealth/Health
-- Can custom npc motion
-- Can custom npc move in area
-- Can custom npc skin !
-- Can custom dead npc run ? commamd
-- Can custom more....
-- Can add the normal move npc!!(no fight)
+- Custom NameTag
+- Custom Health
+- Custom Rotation Pitch and Yaw (Total Head Movement)
+- Custom Movement (Total Body & Head Movement)
+- Custom Skin
+& Much more! Try it yourself!
 
 Future Updates:
-- Can custom item in hand
-- Fix more bugs
+- Hold Items in hand
+- Fix all bugs
 
 本插件創做來自: CreeperGo
 部分更新來自: RexRed6802
@@ -49,16 +46,16 @@ Future Updates:
 
 歡迎更多人加入我們的更新行列！
 
-This plugin made by CreeperGo
-Part of updates from RexRed6802
+This plugin is made by CreeperGo
+and contributed by RexRed6802
 
-Welcome join us to Update this plugin !!
+Help us update the plugin:
 
 捐贈連結：https://pl.zxda.net/plugins/136.html
-Donate url: https://pl.zxda.net/plugins/136.html
+Donate: https://pl.zxda.net/plugins/136.html
 
 
-- We are from China and Taiwan
+- We are residents of China & Taiwan!
 
 #致谢
 感谢RexRed6802对本插件的维护
